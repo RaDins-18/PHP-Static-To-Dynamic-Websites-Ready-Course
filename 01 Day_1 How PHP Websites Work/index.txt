@@ -1,0 +1,33 @@
+What Is PHP:
+
+• PHP is a programming and scripting language to create dynamic interactive websites. WordPress is written using PHP as the scripting language. Just like WordPress, PHP is also an Open Source.
+
+
+How PHP Website Works:
+
+• PHP is a server side programming language. When a user requests a web page that contains PHP code, the code is processed by the PHP module installed on that web server. The PHP pre-processor then generates HTML output to be displayed on the user's browser screen.
+
+
+Benefits Of PHP:
+
+• PHP is an open source, server-side, HTML embedded scripting language used to create dynamic web pages php. PHP can perform any task that any CGI program can do, but its strength lies in its compatibility with many types of databases.
+
+
+What PHP Can Do:
+
+• PHP can generate dynamic page content.
+• PHP can create, open, read, write, delete, and close files on the server.
+• PHP can collect form data.
+• PHP can send and receive cookies.
+• PHP can add, delete, modify data in your database.
+• PHP can be used to control user-access.
+• PHP can encrypt data.
+
+
+Why PHP:
+
+• PHP runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.).
+• PHP is compatible with almost all servers used today (Apache, IIS, etc.).
+• PHP supports a wide range of databases.
+• PHP is free. Download it from the official PHP resource: (www.php.net).
+• PHP is easy to learn and runs efficiently on the server side.
